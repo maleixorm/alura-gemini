@@ -1,4 +1,4 @@
-let atleta = [
+let atletas = [
     {
         nome:"Rebeca Andrade",
         descricao:"Rebeca Andrade é uma das maiores ginastas brasileiras de todos os tempos. Com sua força, elegância e determinação, ela conquistou o coração dos brasileiros e se tornou um verdadeiro ícone do esporte nacional.",
