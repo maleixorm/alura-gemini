@@ -1,2 +1,7 @@
 # alura-gemini
- Imersão Dev da Alura com o google Gemini
+## Projeto desenvolvido durante a Imersão Dev da Alura com Inteligência Artificial
+### Tecnologias:
+* HTML
+* CSS
+* JS
+* Google Gemini
